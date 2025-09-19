@@ -5,4 +5,4 @@
 Data cleaning and dashboarding of video game sales using Excel.
 
 [Interactive Dashboard]
-<iframe width="980" height="680" frameborder="0" scrolling="no" src="https://o365coloradoedu-my.sharepoint.com/personal/isje4596_colorado_edu/_layouts/15/Doc.aspx?sourcedoc={64d8b34b-7444-425e-802d-0090e660c8d8}&action=embedview&AllowTyping=True&ActiveCell='Dashboard'!B3&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+<iframe width="980" height="660" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/f960248c0229dc7f/IQQowX7H4zmUTpzUNG8y4-SKAfwjAv9dlObrP4dTqiCwaro?em=2&AllowTyping=True&ActiveCell='Dashboard'!B3&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
